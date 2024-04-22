@@ -11,7 +11,6 @@ This is a simple Python program that counts the number of words in a given sente
 
 # Example Execution 
 <pre>
-'''
 Welcome to word counter
 Enter 'bye' to exit!!
 Enter a sentence: Hello, how are you?
@@ -22,5 +21,4 @@ Enter a sentence: bye
 =====================================================
                           Bye                      
 =====================================================
-'''
 </pre>
