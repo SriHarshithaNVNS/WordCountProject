@@ -10,6 +10,7 @@ This is a simple Python program that counts the number of words in a given sente
 5. Enter "bye" to exit the program.
 
 # Example Execution 
+<pre>
 '''
 Welcome to word counter
 Enter 'bye' to exit!!
@@ -22,3 +23,4 @@ Enter a sentence: bye
                           Bye                      
 =====================================================
 '''
+</pre>
